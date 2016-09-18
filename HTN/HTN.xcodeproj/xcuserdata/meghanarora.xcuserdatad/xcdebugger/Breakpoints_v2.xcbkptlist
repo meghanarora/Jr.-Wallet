@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HTN/GameScene.swift"
+            timestampString = "495823576.667809"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init (size : __C.CGSize) -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824059.033501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init (size : __C.CGSize) -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824059.036676"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init () -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824059.039475"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init () -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824059.041493"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HTN.GameScene&gt;"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824059.044508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HTN.GameScene&gt;"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824059.047373"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HTN/GameScenetry.swift"
+            timestampString = "495824879.865963"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "scene"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HTN/GameScenetry.swift"
+            timestampString = "495824880.298415"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HTN/GameScene.swift"
+            timestampString = "495824920.524036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__deallocating_deinit"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824920.533543"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init (size : __C.CGSize) -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824920.537699"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init (size : __C.CGSize) -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824920.540589"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init () -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824920.543934"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init () -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824920.547803"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HTN.GameScene&gt;"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824920.550829"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HTN.GameScene&gt;"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824920.554531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HTN/GameScene.swift"
+            timestampString = "495824923.98958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__deallocating_deinit"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824923.998449"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init (size : __C.CGSize) -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824924.008813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init (size : __C.CGSize) -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824924.011768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init () -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824924.015013"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init () -&gt; HTN.GameScene"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824924.022742"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HTN.GameScene&gt;"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824924.025833"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HTN.GameScene.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HTN.GameScene&gt;"
+                  moduleName = "HTN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meghanarora/Desktop/HTN/HTN/GameScene.swift"
+                  timestampString = "495824924.029231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
